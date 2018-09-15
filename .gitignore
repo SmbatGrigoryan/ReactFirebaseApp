@@ -2,5 +2,6 @@ node_modules/
 client/node_modules/
 client/build
 client/src/firebase/config/dev.js
+client/src/firebase/firebase.js
 .idea
 .git
