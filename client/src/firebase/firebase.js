@@ -10,23 +10,7 @@ import * as firebase from 'firebase';
 //   storageBucket: keys.FIREBASE_STORAGE_BUCKET,
 //   messagingSenderId: keys.FIREBASE_MESSAGING_SENDER_ID
 // };
-const configToModify = {
-  apiKey: "AIzaSyD7gPt20JfczAQXvON6c2jfSOLcd3dzuws",
-  authDomain: "newreactapp.firebaseapp.com",
-  databaseURL: "https://newreactapp.firebaseio.com",
-  projectId: "newreactapp",
-  storageBucket: "newreactapp.appspot.com",
-  messagingSenderId: "682040577963"
-};
 
-const config = {
-  apiKey: "AIzaSyD7gPt20JfczAQXvON6c2jfSOLcd3dzuws",
-  authDomain: "newreactapp.firebaseapp.com",
-  databaseURL: "https://newreactapp.firebaseio.com",
-  projectId: "newreactapp",
-  storageBucket: "newreactapp.appspot.com",
-  messagingSenderId: "682040577963"
-};
 
 
 
