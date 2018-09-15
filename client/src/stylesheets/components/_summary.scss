@@ -1,0 +1,30 @@
+.summary {
+  background: #f7f7f7;
+  margin-bottom: $l-size;
+  padding: $l-size 0;
+}
+
+.summary__link {
+  a {
+    margin-top: $m-size;
+    background-color: $blue;
+    color: $off-white;
+    border-radius: 3px;
+    border: none;
+    font-size: $m-size;
+    font-weight: bold;
+    width: 13rem;
+    padding: 6px;
+    text-decoration: none;
+    text-align: center;
+  }
+
+}
+
+.summary__title {
+  font-weight: 300;
+  margin: 0 0 $m-size;
+  span {
+    font-weight: 700;
+  }
+}

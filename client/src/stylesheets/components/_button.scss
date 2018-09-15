@@ -1,0 +1,19 @@
+.button {
+  margin: $s-size 0;
+  background-color: $blue;
+  color: $off-white;
+  border-radius: 3px;
+  border: none;
+  font-size: $m-size;
+  font-weight: bold;
+  width: 13rem;
+  padding: 6px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.button_remove {
+  @extend .button;
+  background-color: firebrick;
+  margin-left: $s-size;
+}

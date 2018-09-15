@@ -1,0 +1,27 @@
+.logIn {
+  background: #c4c4c4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  //width: 100vw;
+  div {
+    background: fade_out(white, .25);
+    padding: $s-size $s-size;
+    border-radius: 5px;
+    text-align: center;
+
+    button {
+        background: $dark-blue;
+        border: none;
+        color: white;
+        font-size: $s-size;
+        font-weight: 300;
+        padding: $s-size;
+
+    }
+
+  }
+
+}
+
