@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import AppRouter, { history } from './routers/router';
 import { Provider } from 'react-redux'
-
-import './firebase/firebase'
+//
+// import './firebase/firebase'
 
 import Store from './store/Store';
 import {startSetExpenses} from "./actions/expenses";
